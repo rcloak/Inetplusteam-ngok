@@ -22,3 +22,4 @@ https://cdn.jsdelivr.net/gh/mmpx12/proxy-list/socks5.txt
 https://cdn.jsdelivr.net/gh/roosterkid/openproxylist/SOCKS5_RAW.txt
 https://cdn.jsdelivr.net/gh/saschazesiger/Free-Proxies/proxies/socks5.txt
 https://cdn.jsdelivr.net/gh/TheSpeedX/PROXY-List/socks5.txt
+https://rcloak.com/api/proxies/raw?protocol=socks5
